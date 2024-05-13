@@ -1,5 +1,5 @@
 const poke_container = document.querySelector('#poke-container')
-const POKEMON_COUNT = 151
+const POKEMON_COUNT = 1000
 const API_URL = 'https://pokeapi.co/api/v2/pokemon/'
 const colorsMap = {
   fire: '#daa8a8',
